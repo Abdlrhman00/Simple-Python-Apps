@@ -1,6 +1,6 @@
 # Simple Python Apps Collection
 
-Welcome to the Simple Python Apps Collection! This repository contains a variety of simple Python applications developed by [Your Name]. These apps are designed to help you learn and practice Python programming concepts in a practical way.
+Welcome to the Simple Python Apps Collection! This repository contains a variety of simple Python applications developed by AbdulRahman. These apps are designed to help you learn and practice Python programming concepts in a practical way.
 
 ## Apps Included:
 
