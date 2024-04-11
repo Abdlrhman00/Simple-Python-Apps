@@ -6,15 +6,18 @@ Welcome to the Simple Python Apps Collection! This repository contains a variety
 
 1. **Guessing Game:** A classic guessing game where the program selects a secret number and the player tries to guess it.
 
-2. **Rectangle and Square Area Calculator:** Includes classes to calculate the area of rectangles and squares. Demonstrates the use of inheritance in Python.
+2. **ShapeAreaCalculator:** Includes classes to calculate the area of rectangles and squares. Demonstrates the use of inheritance in Python.
 
-3. **[App Name 3]:** [Brief description of App 3]
+3. **Prime number:** [Brief description of App 3]
 
-4. **[App Name 4]:** [Brief description of App 4]
+4. **RectCalc:** [Brief description of App 4]
 
-5. **[App Name 5]:** [Brief description of App 5]
+5. **Fraction calculator:** [Brief description of App 5]
 
-... (Add more apps as needed)
+6. **FruitToColor:** [Brief description of App 5]
+
+7. **Watch your speed** [Brief description of App 5]
+
 
 ## Usage:
 
@@ -24,5 +27,6 @@ Example:
 
 ```bash
 python guessing_game.py
+```
 
 Replace guessing_game.py with the filename of the Python file for the app you want to run.
