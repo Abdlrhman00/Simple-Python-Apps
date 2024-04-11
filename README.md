@@ -8,15 +8,15 @@ Welcome to the Simple Python Apps Collection! This repository contains a variety
 
 2. **ShapeAreaCalculator:** Includes classes to calculate the area of rectangles and squares. Demonstrates the use of inheritance in Python.
 
-3. **Prime number:** [Brief description of App 3]
+3. **Prime number:** This app determines whether a given number is a prime number or not. It checks if the number is divisible only by 1 and itself.
 
-4. **RectCalc:** [Brief description of App 4]
+4. **RectCalc:** RectCalc is a rectangle calculator that calculates the area of a rectangle based on its length and width.
 
-5. **Fraction calculator:** [Brief description of App 5]
+5. **Factorial calculator:** calculate the factorial of a number.
 
-6. **FruitToColor:** [Brief description of App 5]
+6. **FruitToColor:** FruitToColor is a dictionary app that maps different colors to their corresponding fruits. Users can look up a color to find out which fruits are associated with it.
 
-7. **Watch your speed** [Brief description of App 5]
+7. **Watch your speed** This app is a speed tracker that helps users monitor their driving speed. It provides warnings if the speed exceeds a specified limit and calculates the number of demerit points based on the speed violation.
 
 
 ## Usage:
