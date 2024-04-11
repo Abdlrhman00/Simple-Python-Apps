@@ -1,11 +1,14 @@
 class Rectangle:
-    def __init__(self, length, width):
-        self.length = length
+    def __init__(self, height, width):
+        self.height = height
         self.width = width
 
     def calculate_area(self):
-        return self.length * self.width
+        return self.height * self.width
 
 
-rectangle1 = Rectangle(5, 4)  
+width = int(input("Enter width: "))
+height = int(input("Enter height: "))
+
+rectangle1 = Rectangle(height, width)
 print("Area of rectangle:", rectangle1.calculate_area()) 
