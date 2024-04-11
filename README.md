@@ -29,4 +29,8 @@ Example:
 python guessing_game.py
 ```
 
-Replace guessing_game.py with the filename of the Python file for the app you want to run.
+Replace 'guessing_game.py' with the filename of the Python file for the app you want to run.
+
+## Contributing:
+
+If you have a simple Python app that you'd like to contribute, feel free to fork this repository, add your app, and submit a pull request. Your contributions are greatly appreciated!
